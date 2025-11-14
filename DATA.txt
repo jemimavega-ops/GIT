@@ -6,7 +6,7 @@
 
 3.- git commit -m"comentario" --> para cambiar a estado de commit
 
-4.- git add origin "http del repositorio de github" --> enlazar repositorio del pc con el de github
+4.- git remote add origin "http del repositorio de github" --> enlazar repositorio del pc con el de github
     4.1.- git push origin master --> agregar cambios desde el repositorio del pc al repositorio de github
     4.2.- git remote -v --> ver si se enlazó bien el repositorio del pc con el de github
 
