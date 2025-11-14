@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 cdvdsvdvsdvsdvd
+=======
+hola mundo otra vez en archivo 
+
+>>>>>>> d67186f0d7bd38531e979bfe314262eaadc204d8

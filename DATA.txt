@@ -10,3 +10,9 @@
     4.1.- git push origin master --> agregar cambios desde el repositorio del pc al repositorio de github
     4.2.- git remote -v --> ver si se enlazó bien el repositorio del pc con el de github
 
+5.- Si editas en el github y transfieres esa edición al archivo del pc:
+pasos:
+    1.- git add <nombre del archivo> --> prepara el archivo para cambios
+    2.- git commit -m <comentario del cambio>
+    3.- git pull origin master --> muestra por fin los cambios
+    4.- git add <nombre del archivo> --> para confirmar los cambios y guardarlos (no funciona el ctrl S)
