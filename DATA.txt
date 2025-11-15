@@ -19,4 +19,7 @@ pasos:
 
 6.- git push --set-upstream origin master --> volver a enlazar con la rama virtual
     tambien sirve para guardar cambios desde el archivo en terminal al virtual cuando el git push origin master no funciona
-
+    pasos para eto:
+    1.- git add <nombre del archivo> --> prepara el archivo para cambios
+    2.- git commit -m <comentario del cambio>
+    3.- git push --set-upstream origin master --> muestra por fin los cambios 
