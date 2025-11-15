@@ -17,4 +17,5 @@ pasos:
     3.- git pull origin master --> muestra por fin los cambios
     4.- git add <nombre del archivo> --> para confirmar los cambios y guardarlos (no funciona el ctrl S)
 
-git push --set-upstream origin master --> volver a enlazar con la rama virtual
+6.- git push --set-upstream origin master --> volver a enlazar con la rama virtual
+    tambien sirve para guardar cambios desde el archivo en terminal al virtual
